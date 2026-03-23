@@ -1,0 +1,11 @@
+..\52_Output\mtr_pdffctrl.o: ..\11_MTR_ReguCtrl\MTR_PDFFCtrl.c
+..\52_Output\mtr_pdffctrl.o: ..\11_MTR_ReguCtrl\MTR_PDFFCtrl.h
+..\52_Output\mtr_pdffctrl.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\mtr_pdffctrl.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\mtr_pdffctrl.o: ..\10_MTR_System\MTR_GlobalVariable.h
+..\52_Output\mtr_pdffctrl.o: ..\10_MTR_System\MTR_InterfaceProcess.h
+..\52_Output\mtr_pdffctrl.o: ..\20_FUNC_System\FUNC_MTRInterface.h
+..\52_Output\mtr_pdffctrl.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\mtr_pdffctrl.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\mtr_pdffctrl.o: ..\23_FUNC_Monitor\FUNC_ErrorCode.h
+..\52_Output\mtr_pdffctrl.o: ..\32_COMM_CANopen\CANopen_OD.h

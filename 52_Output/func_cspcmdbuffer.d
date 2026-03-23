@@ -1,0 +1,9 @@
+..\52_Output\func_cspcmdbuffer.o: ..\33_COMM_EtherCAT\FUNC_CSPCmdBuffer.c
+..\52_Output\func_cspcmdbuffer.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\func_cspcmdbuffer.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\func_cspcmdbuffer.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\func_cspcmdbuffer.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\func_cspcmdbuffer.o: ..\20_FUNC_System\FUNC_GlobalVariable.h
+..\52_Output\func_cspcmdbuffer.o: ..\32_COMM_CANopen\CANopen_OD.h
+..\52_Output\func_cspcmdbuffer.o: ..\32_COMM_CANopen\CANopen_Pub.h
+..\52_Output\func_cspcmdbuffer.o: ..\33_COMM_EtherCAT\FUNC_CSPCmdBuffer.h

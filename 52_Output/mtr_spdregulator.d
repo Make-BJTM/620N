@@ -1,0 +1,15 @@
+..\52_Output\mtr_spdregulator.o: ..\11_MTR_ReguCtrl\MTR_SpdRegulator.c
+..\52_Output\mtr_spdregulator.o: ..\11_MTR_ReguCtrl\MTR_SpdRegulator.h
+..\52_Output\mtr_spdregulator.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\mtr_spdregulator.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\mtr_spdregulator.o: ..\10_MTR_System\MTR_GlobalVariable.h
+..\52_Output\mtr_spdregulator.o: ..\10_MTR_System\MTR_InterfaceProcess.h
+..\52_Output\mtr_spdregulator.o: ..\20_FUNC_System\FUNC_MTRInterface.h
+..\52_Output\mtr_spdregulator.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\mtr_spdregulator.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\mtr_spdregulator.o: ..\23_FUNC_Monitor\FUNC_ErrorCode.h
+..\52_Output\mtr_spdregulator.o: ..\32_COMM_CANopen\CANopen_OD.h
+..\52_Output\mtr_spdregulator.o: ..\10_MTR_System\MTR_Global_Filter.h
+..\52_Output\mtr_spdregulator.o: ..\11_MTR_ReguCtrl\MTR_PDFFCtrl.h
+..\52_Output\mtr_spdregulator.o: ..\00_Public\PUB_Main.h
+..\52_Output\mtr_spdregulator.o: ..\33_COMM_EtherCAT\FUNC_CSPCmdBuffer.h

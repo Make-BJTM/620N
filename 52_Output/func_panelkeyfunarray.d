@@ -1,0 +1,13 @@
+..\52_Output\func_panelkeyfunarray.o: ..\24_FUNC_ManageFunCode\FUNC_PanelKeyFunArray.c
+..\52_Output\func_panelkeyfunarray.o: ..\20_FUNC_System\FUNC_GlobalVariable.h
+..\52_Output\func_panelkeyfunarray.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\func_panelkeyfunarray.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\func_panelkeyfunarray.o: ..\24_FUNC_ManageFunCode\FUNC_PanelKeyFunArray.h
+..\52_Output\func_panelkeyfunarray.o: ..\24_FUNC_ManageFunCode\FUNC_PanelKey.h
+..\52_Output\func_panelkeyfunarray.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\func_panelkeyfunarray.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\func_panelkeyfunarray.o: ..\24_FUNC_ManageFunCode\FUNC_FunCodeDefault.h
+..\52_Output\func_panelkeyfunarray.o: ..\24_FUNC_ManageFunCode\FUNC_OperEeprom.h
+..\52_Output\func_panelkeyfunarray.o: ..\23_FUNC_Monitor\FUNC_ErrorCode.h
+..\52_Output\func_panelkeyfunarray.o: ..\20_FUNC_System\FUNC_InterfaceProcess.h
+..\52_Output\func_panelkeyfunarray.o: ..\10_MTR_Obj\MTR_FUNCInterface.h

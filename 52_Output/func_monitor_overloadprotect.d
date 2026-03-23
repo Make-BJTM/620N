@@ -1,0 +1,14 @@
+..\52_Output\func_monitor_overloadprotect.o: ..\23_FUNC_Monitor2\FUNC_Monitor_OverLoadProtect.c
+..\52_Output\func_monitor_overloadprotect.o: ..\00_Public\PUB_Library_Function.h
+..\52_Output\func_monitor_overloadprotect.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\func_monitor_overloadprotect.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\func_monitor_overloadprotect.o: ..\20_FUNC_System\FUNC_GlobalVariable.h
+..\52_Output\func_monitor_overloadprotect.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\func_monitor_overloadprotect.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\func_monitor_overloadprotect.o: ..\23_FUNC_Monitor\FUNC_ErrorCode.h
+..\52_Output\func_monitor_overloadprotect.o: ..\23_FUNC_Monitor2\FUNC_MotorOverLoad.h
+..\52_Output\func_monitor_overloadprotect.o: ..\20_FUNC_System\FUNC_Filter.h
+..\52_Output\func_monitor_overloadprotect.o: ..\23_FUNC_Monitor2\FUNC_Monitor_OverLoadProtect.h
+..\52_Output\func_monitor_overloadprotect.o: ..\23_FUNC_Monitor2\FUNC_Monitor_OverLoadTable.h
+..\52_Output\func_monitor_overloadprotect.o: ..\20_FUNC_System\FUNC_InterfaceProcess.h
+..\52_Output\func_monitor_overloadprotect.o: ..\10_MTR_Obj\MTR_FUNCInterface.h

@@ -1,0 +1,15 @@
+..\52_Output\mtr_angleinit.o: ..\13_MTR_AuxFunc\MTR_AngleInit.c
+..\52_Output\mtr_angleinit.o: ..\00_Public\PUB_Main.h
+..\52_Output\mtr_angleinit.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\mtr_angleinit.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\mtr_angleinit.o: ..\00_Public\PUB_Table.h
+..\52_Output\mtr_angleinit.o: ..\00_Public\PUB_Library_Function.h
+..\52_Output\mtr_angleinit.o: ..\10_MTR_System\MTR_GlobalVariable.h
+..\52_Output\mtr_angleinit.o: ..\13_MTR_AuxFunc\MTR_AngleInit.h
+..\52_Output\mtr_angleinit.o: ..\10_MTR_System\MTR_InterfaceProcess.h
+..\52_Output\mtr_angleinit.o: ..\20_FUNC_System\FUNC_MTRInterface.h
+..\52_Output\mtr_angleinit.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\mtr_angleinit.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\mtr_angleinit.o: ..\23_FUNC_Monitor\FUNC_ErrorCode.h
+..\52_Output\mtr_angleinit.o: ..\32_COMM_CANopen\CANopen_OD.h
+..\52_Output\mtr_angleinit.o: ..\11_MTR_ReguCtrl\MTR_FPGAInterface.h

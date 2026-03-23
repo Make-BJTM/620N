@@ -1,0 +1,9 @@
+..\52_Output\func_fullcloseloop.o: ..\22_FUNC_MotionCtrl\FUNC_FullCloseLoop.c
+..\52_Output\func_fullcloseloop.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\func_fullcloseloop.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\func_fullcloseloop.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\func_fullcloseloop.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\func_fullcloseloop.o: ..\23_FUNC_Monitor\FUNC_ErrorCode.h
+..\52_Output\func_fullcloseloop.o: ..\22_FUNC_MotionCtrl\FUNC_FullCloseLoop.h
+..\52_Output\func_fullcloseloop.o: ..\20_FUNC_System\FUNC_GlobalVariable.h
+..\52_Output\func_fullcloseloop.o: ..\22_FUNC_MotionCtrl\FUNC_PosCtrl.h

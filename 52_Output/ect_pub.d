@@ -1,0 +1,9 @@
+..\52_Output\ect_pub.o: ..\33_COMM_EtherCAT\ECT_Pub.c
+..\52_Output\ect_pub.o: ..\33_COMM_EtherCAT\ECT_Pub.h
+..\52_Output\ect_pub.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\ect_pub.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\ect_pub.o: ..\20_FUNC_System\FUNC_InterfaceProcess.h
+..\52_Output\ect_pub.o: ..\10_MTR_Obj\MTR_FUNCInterface.h
+..\52_Output\ect_pub.o: ..\23_FUNC_Monitor\FUNC_ServoError.h
+..\52_Output\ect_pub.o: ..\23_FUNC_Monitor\FUNC_ErrorCode.h
+..\52_Output\ect_pub.o: ..\20_FUNC_System\FUNC_GlobalVariable.h

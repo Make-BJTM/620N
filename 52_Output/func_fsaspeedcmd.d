@@ -1,0 +1,11 @@
+..\52_Output\func_fsaspeedcmd.o: ..\25_FUNC_VibraDamp_SelfTuning\FUNC_FSASpeedCmd.c
+..\52_Output\func_fsaspeedcmd.o: ..\20_FUNC_System\FUNC_GlobalVariable.h
+..\52_Output\func_fsaspeedcmd.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\func_fsaspeedcmd.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\func_fsaspeedcmd.o: ..\20_FUNC_System\FUNC_InterfaceProcess.h
+..\52_Output\func_fsaspeedcmd.o: ..\10_MTR_Obj\MTR_FUNCInterface.h
+..\52_Output\func_fsaspeedcmd.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\func_fsaspeedcmd.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\func_fsaspeedcmd.o: ..\23_FUNC_Monitor\FUNC_ErrorCode.h
+..\52_Output\func_fsaspeedcmd.o: ..\24_FUNC_ManageFunCode\FUNC_COMMInterface.h
+..\52_Output\func_fsaspeedcmd.o: ..\25_FUNC_VibraDamp_SelfTuning\FUNC_FSASpeedCmd.h

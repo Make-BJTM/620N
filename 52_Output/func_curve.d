@@ -1,0 +1,15 @@
+..\52_Output\func_curve.o: ..\22_FUNC_MotionCtrl\FUNC_Curve.c
+..\52_Output\func_curve.o: ..\20_FUNC_System\FUNC_GlobalVariable.h
+..\52_Output\func_curve.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\func_curve.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\func_curve.o: ..\20_FUNC_System\FUNC_InterfaceProcess.h
+..\52_Output\func_curve.o: ..\10_MTR_Obj\MTR_FUNCInterface.h
+..\52_Output\func_curve.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\func_curve.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\func_curve.o: ..\22_FUNC_MotionCtrl\FUNC_PosCtrl.h
+..\52_Output\func_curve.o: ..\22_FUNC_MotionCtrl\FUNC_Curve.h
+..\52_Output\func_curve.o: ..\22_FUNC_MotionCtrl\FUNC_LineInterplt.h
+..\52_Output\func_curve.o: ..\22_FUNC_MotionCtrl\FUNC_MultiBlockPos.h
+..\52_Output\func_curve.o: ..\23_FUNC_Monitor\FUNC_ServoMonitor.h
+..\52_Output\func_curve.o: ..\23_FUNC_Monitor\FUNC_StopProcess.h
+..\52_Output\func_curve.o: ..\23_FUNC_Monitor\FUNC_ServoError.h

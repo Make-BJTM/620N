@@ -1,0 +1,16 @@
+..\52_Output\ect_pt.o: ..\33_COMM_EtherCAT\ECT_PT.c
+..\52_Output\ect_pt.o: ..\33_COMM_EtherCAT\ECT_PT.h
+..\52_Output\ect_pt.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\ect_pt.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\ect_pt.o: ..\20_FUNC_System\FUNC_InterfaceProcess.h
+..\52_Output\ect_pt.o: ..\10_MTR_Obj\MTR_FUNCInterface.h
+..\52_Output\ect_pt.o: ..\32_COMM_CANopen\CANopen_DeviceCtrl.h
+..\52_Output\ect_pt.o: ..\32_COMM_CANopen\CANopen_OD.h
+..\52_Output\ect_pt.o: ..\23_FUNC_Monitor\FUNC_ServoMonitor.h
+..\52_Output\ect_pt.o: ..\23_FUNC_Monitor\FUNC_StopProcess.h
+..\52_Output\ect_pt.o: ..\23_FUNC_Monitor\FUNC_ServoError.h
+..\52_Output\ect_pt.o: ..\20_FUNC_System\FUNC_GlobalVariable.h
+..\52_Output\ect_pt.o: ..\32_COMM_CANopen\CANopen_Pub.h
+..\52_Output\ect_pt.o: ..\23_FUNC_Monitor\FUNC_ErrorCode.h
+..\52_Output\ect_pt.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\ect_pt.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h

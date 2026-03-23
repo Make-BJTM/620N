@@ -1,0 +1,13 @@
+..\52_Output\canopen_odt.o: ..\32_COMM_CANopen\CANopen_ODT.c
+..\52_Output\canopen_odt.o: ..\32_COMM_CANopen\CANopen_OD.h
+..\52_Output\canopen_odt.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\canopen_odt.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\canopen_odt.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\canopen_odt.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\canopen_odt.o: ..\24_FUNC_ManageFunCode\FUNC_FunCodeDefault.h
+..\52_Output\canopen_odt.o: ..\20_FUNC_System\FUNC_GlobalVariable.h
+..\52_Output\canopen_odt.o: ..\32_COMM_CANopen\CANopen_InterFace.h
+..\52_Output\canopen_odt.o: ..\23_FUNC_Monitor\FUNC_ErrorCode.h
+..\52_Output\canopen_odt.o: ..\24_FUNC_ManageFunCode\FUNC_OperEeprom.h
+..\52_Output\canopen_odt.o: ..\20_FUNC_System\FUNC_WWDG.h
+..\52_Output\canopen_odt.o: ..\33_COMM_EtherCAT\ECT_InterFace.h

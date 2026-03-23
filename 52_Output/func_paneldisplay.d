@@ -1,0 +1,14 @@
+..\52_Output\func_paneldisplay.o: ..\24_FUNC_ManageFunCode\FUNC_PanelDisplay.c
+..\52_Output\func_paneldisplay.o: ..\00_Public\PUB_Main.h
+..\52_Output\func_paneldisplay.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\func_paneldisplay.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\func_paneldisplay.o: ..\20_FUNC_System\FUNC_GlobalVariable.h
+..\52_Output\func_paneldisplay.o: ..\24_FUNC_ManageFunCode\FUNC_FunCodeDefault.h
+..\52_Output\func_paneldisplay.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\func_paneldisplay.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\func_paneldisplay.o: ..\24_FUNC_ManageFunCode\FUNC_PanelKey.h
+..\52_Output\func_paneldisplay.o: ..\20_FUNC_System\FUNC_InterfaceProcess.h
+..\52_Output\func_paneldisplay.o: ..\10_MTR_Obj\MTR_FUNCInterface.h
+..\52_Output\func_paneldisplay.o: ..\33_COMM_EtherCAT\ECT_InterFace.h
+..\52_Output\func_paneldisplay.o: ..\33_COMM_EtherCAT\ECT_ESMDisplay.h
+..\52_Output\func_paneldisplay.o: ..\32_COMM_CANopen\CANopen_OD.h

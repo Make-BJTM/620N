@@ -1,0 +1,17 @@
+..\52_Output\mtr_absencangleinit.o: ..\11_MTR_ReguCtrl\MTR_AbsEncAngleInit.c
+..\52_Output\mtr_absencangleinit.o: ..\00_Public\PUB_Main.h
+..\52_Output\mtr_absencangleinit.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\mtr_absencangleinit.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\mtr_absencangleinit.o: ..\11_MTR_ReguCtrl\MTR_AbsEncAngleInit.h
+..\52_Output\mtr_absencangleinit.o: ..\11_MTR_ReguCtrl\MTR_FPGAInterface.h
+..\52_Output\mtr_absencangleinit.o: ..\10_MTR_System\MTR_GlobalVariable.h
+..\52_Output\mtr_absencangleinit.o: ..\10_MTR_System\MTR_InterfaceProcess.h
+..\52_Output\mtr_absencangleinit.o: ..\20_FUNC_System\FUNC_MTRInterface.h
+..\52_Output\mtr_absencangleinit.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\mtr_absencangleinit.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\mtr_absencangleinit.o: ..\23_FUNC_Monitor\FUNC_ErrorCode.h
+..\52_Output\mtr_absencangleinit.o: ..\32_COMM_CANopen\CANopen_OD.h
+..\52_Output\mtr_absencangleinit.o: ..\11_MTR_ReguCtrl\MTR_Nikon_AbsRomOper.h
+..\52_Output\mtr_absencangleinit.o: ..\11_MTR_ReguCtrl\MTR_Tamagawa_AbsRomOper.h
+..\52_Output\mtr_absencangleinit.o: ..\11_MTR_ReguCtrl\MTR_AbsRomOper.h
+..\52_Output\mtr_absencangleinit.o: ..\11_MTR_ReguCtrl\MTR_HDH_RomOper.h

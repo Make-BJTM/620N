@@ -1,0 +1,12 @@
+..\52_Output\mtr_inertiaidy.o: ..\13_MTR_AuxFunc\MTR_InertiaIdy.c
+..\52_Output\mtr_inertiaidy.o: ..\10_MTR_System\MTR_GlobalVariable.h
+..\52_Output\mtr_inertiaidy.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\mtr_inertiaidy.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\mtr_inertiaidy.o: ..\10_MTR_System\MTR_Global_Filter.h
+..\52_Output\mtr_inertiaidy.o: ..\10_MTR_System\MTR_InterfaceProcess.h
+..\52_Output\mtr_inertiaidy.o: ..\20_FUNC_System\FUNC_MTRInterface.h
+..\52_Output\mtr_inertiaidy.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\mtr_inertiaidy.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\mtr_inertiaidy.o: ..\23_FUNC_Monitor\FUNC_ErrorCode.h
+..\52_Output\mtr_inertiaidy.o: ..\32_COMM_CANopen\CANopen_OD.h
+..\52_Output\mtr_inertiaidy.o: ..\13_MTR_AuxFunc\MTR_InertiaIdy.h

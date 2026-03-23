@@ -1,0 +1,12 @@
+..\52_Output\func_monitor_temperature.o: ..\23_FUNC_Monitor2\FUNC_Monitor_Temperature.c
+..\52_Output\func_monitor_temperature.o: ..\20_FUNC_System\FUNC_GlobalVariable.h
+..\52_Output\func_monitor_temperature.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\func_monitor_temperature.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\func_monitor_temperature.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\func_monitor_temperature.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\func_monitor_temperature.o: ..\23_FUNC_Monitor\FUNC_ErrorCode.h
+..\52_Output\func_monitor_temperature.o: ..\23_FUNC_Monitor2\FUNC_Monitor_Temperature.h
+..\52_Output\func_monitor_temperature.o: ..\23_FUNC_Monitor2\FUNC_Monitor_TemperaTable.h
+..\52_Output\func_monitor_temperature.o: ..\23_FUNC_Monitor2\FUNC_AdcDriver_ST.h
+..\52_Output\func_monitor_temperature.o: ..\20_FUNC_System\FUNC_Filter.h
+..\52_Output\func_monitor_temperature.o: ..\20_FUNC_System\FUNC_GPIODriver.h

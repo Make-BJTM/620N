@@ -1,0 +1,9 @@
+..\52_Output\func_panelkey.o: ..\24_FUNC_ManageFunCode\FUNC_PanelKey.c
+..\52_Output\func_panelkey.o: ..\00_Public\PUB_Main.h
+..\52_Output\func_panelkey.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\func_panelkey.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\func_panelkey.o: ..\20_FUNC_System\FUNC_GlobalVariable.h
+..\52_Output\func_panelkey.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\func_panelkey.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\func_panelkey.o: ..\24_FUNC_ManageFunCode\FUNC_PanelKey.h
+..\52_Output\func_panelkey.o: ..\24_FUNC_ManageFunCode\FUNC_PanelKeyFunArray.h

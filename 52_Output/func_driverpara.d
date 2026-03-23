@@ -1,0 +1,11 @@
+..\52_Output\func_driverpara.o: ..\24_FUNC_ManageFunCode\FUNC_DriverPara.c
+..\52_Output\func_driverpara.o: ..\20_FUNC_System\FUNC_GlobalVariable.h
+..\52_Output\func_driverpara.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\func_driverpara.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\func_driverpara.o: ..\24_FUNC_ManageFunCode\FUNC_DriverPara.h
+..\52_Output\func_driverpara.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\func_driverpara.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\func_driverpara.o: ..\24_FUNC_ManageFunCode\FUNC_FunCodeDefault.h
+..\52_Output\func_driverpara.o: ..\24_FUNC_ManageFunCode\FUNC_OperEeprom.h
+..\52_Output\func_driverpara.o: ..\24_FUNC_ManageFunCode\FUNC_ManageFunCode.h
+..\52_Output\func_driverpara.o: ..\23_FUNC_Monitor\FUNC_ErrorCode.h

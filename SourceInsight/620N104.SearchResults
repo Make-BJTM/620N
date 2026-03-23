@@ -1,0 +1,4 @@
+---- SpdReachVal Matches (3 in 1 files) ----
+CANopen_PV.c (e:\file_c\newwork\620nnew\32_comm_canopen):    Uint64 SpdReachVal;
+CANopen_PV.c (e:\file_c\newwork\620nnew\32_comm_canopen):        SpdReachVal = (int32)ObjectDictionaryStandard.ProVelMode1.VelocityWindow;//rpm
+CANopen_PV.c (e:\file_c\newwork\620nnew\32_comm_canopen):        if(SpdTemp111 <= SpdReachVal)

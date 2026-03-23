@@ -1,0 +1,9 @@
+..\52_Output\func_virtualdido.o: ..\23_FUNC_Monitor\FUNC_VirtualDiDo.c
+..\52_Output\func_virtualdido.o: ..\20_FUNC_System\FUNC_GlobalVariable.h
+..\52_Output\func_virtualdido.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\func_virtualdido.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\func_virtualdido.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\func_virtualdido.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\func_virtualdido.o: ..\23_FUNC_Monitor\FUNC_VirtualDiDo.h
+..\52_Output\func_virtualdido.o: ..\23_FUNC_Monitor\FUNC_DiDo.h
+..\52_Output\func_virtualdido.o: ..\23_FUNC_Monitor\FUNC_ErrorCode.h

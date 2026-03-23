@@ -1,0 +1,14 @@
+..\52_Output\mtr_hdh_absromoper.o: ..\11_MTR_ReguCtrl\MTR_HDH_AbsRomOper.c
+..\52_Output\mtr_hdh_absromoper.o: ..\00_Public\PUB_Main.h
+..\52_Output\mtr_hdh_absromoper.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\mtr_hdh_absromoper.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\mtr_hdh_absromoper.o: ..\11_MTR_ReguCtrl\MTR_HDH_RomOper.h
+..\52_Output\mtr_hdh_absromoper.o: ..\11_MTR_ReguCtrl\MTR_AbsRomOper.h
+..\52_Output\mtr_hdh_absromoper.o: ..\11_MTR_ReguCtrl\MTR_FPGAInterface.h
+..\52_Output\mtr_hdh_absromoper.o: ..\10_MTR_System\MTR_GlobalVariable.h
+..\52_Output\mtr_hdh_absromoper.o: ..\10_MTR_System\MTR_InterfaceProcess.h
+..\52_Output\mtr_hdh_absromoper.o: ..\20_FUNC_System\FUNC_MTRInterface.h
+..\52_Output\mtr_hdh_absromoper.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\mtr_hdh_absromoper.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\mtr_hdh_absromoper.o: ..\23_FUNC_Monitor\FUNC_ErrorCode.h
+..\52_Output\mtr_hdh_absromoper.o: ..\32_COMM_CANopen\CANopen_OD.h

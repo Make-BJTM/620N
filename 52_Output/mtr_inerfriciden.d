@@ -1,0 +1,11 @@
+..\52_Output\mtr_inerfriciden.o: ..\13_MTR_AuxFunc\MTR_InerFricIden.c
+..\52_Output\mtr_inerfriciden.o: ..\13_MTR_AuxFunc\MTR_InerFricIden.h
+..\52_Output\mtr_inerfriciden.o: ..\00_Public\PUB_GlobalPrototypes.h
+..\52_Output\mtr_inerfriciden.o: ..\00_Public\PUB_IS620N_Config.h
+..\52_Output\mtr_inerfriciden.o: ..\10_MTR_System\MTR_GlobalVariable.h
+..\52_Output\mtr_inerfriciden.o: ..\10_MTR_System\MTR_InterfaceProcess.h
+..\52_Output\mtr_inerfriciden.o: ..\20_FUNC_System\FUNC_MTRInterface.h
+..\52_Output\mtr_inerfriciden.o: ..\24_FUNC_ManageFunCode\FUNC_FunCode.h
+..\52_Output\mtr_inerfriciden.o: ..\24_FUNC_ManageFunCode\FUNC_AuxFunCode.h
+..\52_Output\mtr_inerfriciden.o: ..\23_FUNC_Monitor\FUNC_ErrorCode.h
+..\52_Output\mtr_inerfriciden.o: ..\32_COMM_CANopen\CANopen_OD.h
