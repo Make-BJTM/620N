@@ -78,11 +78,11 @@
 
 //CAN功能使能开关
 //0--代表不使能CAN功能；1--代表使能CAN功能
-#define  CAN_ENABLE_SWITCH      0 
+#define  CAN_ENABLE_SWITCH      1 
 
 //EtherCAT功能使能开关
 //0--代表不使能ECT功能；1--代表使能ECT功能
-#define  ECT_ENABLE_SWITCH      1 
+#define  ECT_ENABLE_SWITCH      0 
 
 //海德汉编码器开关
 #define  HDH_ENCODER_SW         0 
